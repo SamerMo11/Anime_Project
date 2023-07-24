@@ -1,0 +1,55 @@
+img {
+  padding: 15px 15px;
+  border-radius: 25%;
+}
+
+span {
+  color: white;
+}
+
+nav ul li {
+  padding: 10px 20px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration-line: none;
+  font-weight: bold;
+}
+
+input {
+  background: red;
+  color: black;
+  text-decoration: none;
+  border: 2px solid black;
+  font-weight: bold;
+  padding: 13px 30px;
+  border-radius: 50px;
+
+}
+
+input:hover {
+  background: transparent;
+  border: 2px solid #f9004d;
+  color: white;
+}
+
+.ss {
+
+  font-weight: bold;
+  padding: 10px 10px;
+  border-radius: 100px;
+  border: 3px solid red;
+}
+
+.s {
+  color: red;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 100px;
+  border: 3px solid red;
+}
+.samer {
+
+
+}

@@ -1,0 +1,45 @@
+body {
+  background-image: url(nar.jpg);
+  background-size: cover;
+}
+
+.h {
+  width: 19%;
+  height: 3px;
+  border: 0 none;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  background-color: red;
+}
+
+input {
+  background-color: transparent;
+  color: white;
+  border: 1px solid mediumpurple;
+  font-weight: bold;
+  padding: 5px 15px;
+  border-radius: 20px;
+  transition: .4s;
+  font-weight: bold;
+}
+
+input:hover {
+  background: black;
+  border: 1px solid mediumpurple;
+  transform: scale(1.1);
+  color:white;
+}
+
+select {
+  background-color: mediumpurple;
+  color: white;
+  border: 1px solid mediumpurple;
+  font-weight: bold;
+  padding: 5px 5px;
+  border-radius: 20px;
+  transition: .4s;
+  font-weight: bold;
+
+}

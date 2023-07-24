@@ -1,0 +1,26 @@
+.h {
+  width: 15%;
+  height: 5px;
+  border: 0 none;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  background-color: darkred;
+}
+
+input {
+  background-color: transparent;
+  color: black;
+  border: 2px solid darkred;
+  font-weight: bold;
+  padding: 5px 15px;
+  border-radius: 15px;
+  transition: .4s;
+}
+
+input:hover {
+  background: white;
+  transform: scale(1.1);
+  cursor: pointer;
+}
